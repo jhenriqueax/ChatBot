@@ -1,6 +1,6 @@
-ChatBot em desenvolvimento
+ChatBot em desenvolvimento...
 
-Necessários para o uso;
+Necessários para o uso:
 
 -Python 3.6
 
