@@ -2,4 +2,4 @@
 
 | Versão | Link |
 | ------ | ------ |
-| V01 | [plugins/dropbox/README.md][PlDb] |
+| V01 | [Lin](https://github.com/jhenriqueax/ChatBot/tree/main/V01) |
