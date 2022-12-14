@@ -1,8 +1,19 @@
-# chatbot Versão 01
+# Chatbot Versão 01
 
--Requisitos:
+Chatbot versão inicial, utiliza como base a biblioteca [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
 
--python 3.6
--biblitoteca ChatterBot
--Biblioteca Spacy
+## Requisitos:
 
+- python 3.6
+
+- biblitoteca ChatterBot
+
+```sh
+pip install chatterbot
+```
+
+- Biblioteca Spacy
+
+```sh
+pip install spacy
+```
