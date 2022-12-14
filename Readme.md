@@ -2,5 +2,5 @@
 
 | Versão | Link |
 | ------ | ------ |
-| V01 | [Link](https://github.com/jhenriqueax/ChatBot/tree/main/V01) |
-| V02 | [Link](https://github.com/jhenriqueax/ChatBot/tree/main/V02/myBot) |
+| V 1.0 | [Link](https://github.com/jhenriqueax/ChatBot/tree/main/V01) |
+| V 2.0 | [Link](https://github.com/jhenriqueax/ChatBot/tree/main/V02/myBot) |
