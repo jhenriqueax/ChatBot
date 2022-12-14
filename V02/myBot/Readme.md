@@ -23,3 +23,8 @@ cd myBot
 botonic serve
 ```
 
+- localhost
+
+```sh
+http://localhost:8080/
+```
