@@ -1,4 +1,4 @@
-# Chatbot Versão 01
+# Chatbot Versão 1.0
 
 Chatbot versão inicial, utiliza como base a biblioteca [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
 
