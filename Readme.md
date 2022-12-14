@@ -2,4 +2,4 @@
 
 | Versão | Link |
 | ------ | ------ |
-| V01 | [Lin](https://github.com/jhenriqueax/ChatBot/tree/main/V01) |
+| V01 | [Link](https://github.com/jhenriqueax/ChatBot/tree/main/V01) |
